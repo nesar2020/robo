@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nesar2020/robo/static/css/main.dc8398c8.css",
+    "main.js": "/nesar2020/robo/static/js/main.3cbe26f6.js",
+    "static/js/787.cfd8f164.chunk.js": "/nesar2020/robo/static/js/787.cfd8f164.chunk.js",
+    "static/media/SEGA.woff": "/nesar2020/robo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/nesar2020/robo/index.html",
+    "main.dc8398c8.css.map": "/nesar2020/robo/static/css/main.dc8398c8.css.map",
+    "main.3cbe26f6.js.map": "/nesar2020/robo/static/js/main.3cbe26f6.js.map",
+    "787.cfd8f164.chunk.js.map": "/nesar2020/robo/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc8398c8.css",
+    "static/js/main.3cbe26f6.js"
+  ]
+}

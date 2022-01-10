@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nesar2020/robo/static/css/main.dc8398c8.css",
-    "main.js": "/nesar2020/robo/static/js/main.3cbe26f6.js",
-    "static/js/787.cfd8f164.chunk.js": "/nesar2020/robo/static/js/787.cfd8f164.chunk.js",
-    "static/media/SEGA.woff": "/nesar2020/robo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/nesar2020/robo/index.html",
-    "main.dc8398c8.css.map": "/nesar2020/robo/static/css/main.dc8398c8.css.map",
-    "main.3cbe26f6.js.map": "/nesar2020/robo/static/js/main.3cbe26f6.js.map",
-    "787.cfd8f164.chunk.js.map": "/nesar2020/robo/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/robo/static/css/main.b48f15e3.css",
+    "main.js": "/robo/static/js/main.d6e8bacf.js",
+    "static/js/787.cfd8f164.chunk.js": "/robo/static/js/787.cfd8f164.chunk.js",
+    "static/media/SEGA.woff": "/robo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robo/index.html",
+    "main.b48f15e3.css.map": "/robo/static/css/main.b48f15e3.css.map",
+    "main.d6e8bacf.js.map": "/robo/static/js/main.d6e8bacf.js.map",
+    "787.cfd8f164.chunk.js.map": "/robo/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc8398c8.css",
-    "static/js/main.3cbe26f6.js"
+    "static/css/main.b48f15e3.css",
+    "static/js/main.d6e8bacf.js"
   ]
 }
